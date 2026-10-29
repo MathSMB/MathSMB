@@ -11,9 +11,10 @@ Desenvolvo APIs e sistemas web com **Java e Spring Boot**, bancos **PostgreSQL**
 
 ### 🧠 Sobre mim
 
+- 🎓 Pós graduando em Sistemas Distribuidos & IA Aplicada (PUC Minas)
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (Newton Paiva)
-- 💼 Desenvolvedor de software PJ desde 2023 (Astra Software House), entregando APIs e sistemas web para clientes
-- 🤖 Uso IA no dia a dia de desenvolvimento (agentes, especificações e testes automatizados)
+- 💼 Desenvolvedor de software PJ desde 2023 (Astra Software House)
+- 🤖 Uso IA no dia a dia de desenvolvimento (harness, agentes, SDD e acompanhando as inovações)
 - 📍 Pedro Leopoldo/BH, aberto a vagas remotas e híbridas na região
 
 ### 🛠️ Tecnologias
@@ -24,13 +25,5 @@ Desenvolvo APIs e sistemas web com **Java e Spring Boot**, bancos **PostgreSQL**
 - **DevOps e nuvem:** Docker · Kubernetes · CI/CD · AWS · Azure · Linux · Git
 - **Testes:** JUnit · Mockito
 - **Frontend:** React · TypeScript · JavaScript
-
-### 📌 Projetos em destaque
-
-| Projeto | O que faz | Stack |
-| --- | --- | --- |
-| [nome-do-projeto-1](https://github.com/MathSMB/) | [uma frase com o problema que resolve] | Java, Spring Boot, PostgreSQL, Docker |
-| [nome-do-projeto-2](https://github.com/MathSMB/) | [uma frase] | [stack] |
-| [nome-do-projeto-3](https://github.com/MathSMB/) | [uma frase] | [stack] |
 
 *Um commit de cada vez.* 🟩
